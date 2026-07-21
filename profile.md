@@ -46,3 +46,8 @@
   <a href="https://github.com/devxb/yeansoo0103">
   <img src="https://render.gitanimals.org/lines/yeansoo0103?pet-id=1" width="1000" height="120"/>
   </a>
+
+- [박범혁](https://github.com/completebluebird)
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/completebluebird?pet-id=1" width="10000" height="120"/>
+</a>
