@@ -43,16 +43,13 @@
   - [성연수](https://github.com/yeansoo0103)
   <a href="https://github.com/devxb/yeansoo0103">
   <img src="https://render.gitanimals.org/lines/yeansoo0103?pet-id=1" width="1000" height="120"/>
-<<<<<<< HEAD
   </a>
   
-    - [성연수](https://github.com/oesnim777)
+  - [감민서](https://github.com/oesnim777)
   <a href="https://github.com/devxb/oesnim777">
   <img src="https://render.gitanimals.org/lines/yeansoo0103?pet-id=1" width="1000" height="120"/>
-=======
 
 - [박범혁](https://github.com/completebluebird)
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/completebluebird?pet-id=1" width="100" height="12"/>
->>>>>>> 6b7879940a4b5df15a2f796fbe6a543bbd66b4f2
   </a>
