@@ -1,4 +1,5 @@
 ## Profiles
+
 - [김승범](https://github.com/BBAAMM)
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/BBAAMM?pet-id=1" width="1000" height="300"/>
@@ -18,12 +19,10 @@
   <img src="https://render.gitanimals.org/lines/joheeho?pet-id=1" width="1000" height="120"/>
   </a>
 
-
 - [김현승](https://github.com/khs0102)
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/khs0102?pet-id=1" width="1000" height="120"/>
   </a>
-
 
 - [오소원](https://github.com/swo0nyy)
   <a href="https://github.com/devxb/gitanimals">
@@ -42,4 +41,8 @@
 - [김호태](https://github.com/rolltaee)
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/rolltaee?pet-id=1" width="1000" height="300"/>
+
+  - [성연수](https://github.com/yeansoo0103)
+  <a href="https://github.com/devxb/yeansoo0103">
+  <img src="https://render.gitanimals.org/lines/yeansoo0103?pet-id=1" width="1000" height="120"/>
   </a>
