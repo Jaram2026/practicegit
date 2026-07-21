@@ -1,8 +1,7 @@
 ## Profiles
-
 - [김승범](https://github.com/BBAAMM)
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/BBAAMM?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/BBAAMM?pet-id=1" width="1000" height="300"/>
   </a>
 
 - [목정빈](https://github.com/mokmokahr)
@@ -25,7 +24,17 @@
   <img src="https://render.gitanimals.org/lines/khs0102?pet-id=1" width="1000" height="120"/>
   </a>
 
+
+- [오소원](https://github.com/swo0nyy)
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/swo0nyy?pet-id=1" width="1000" height="120"/>
+  </a>
 - [박민성](https://github.com/P3amS)
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/P3amS?pet-id=1" width="1000" height="120"/>
+  </a>
+
+- [조인준](https://github.com/Joinjun001)
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Joinjun001?pet-id=1" width="1000" height="120"/>
   </a>
