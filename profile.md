@@ -59,3 +59,8 @@
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/rolltaee?pet-id=1" width="1000" height="300"/>
   </a>
+
+- [안준후](https://github.com/jun302302)
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jun302302?pet-id=1" width="1000" height="300"/>
+  </a>
