@@ -38,9 +38,15 @@
   <img src="https://render.gitanimals.org/lines/Joinjun001?pet-id=1" width="1000" height="120"/>
   </a>
 
+
+- [김호태](https://github.com/rolltaee)
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/rolltaee?pet-id=1" width="1000" height="300"/>
+
 - [이경환]<a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{lgh0005}?pet-id=1" width="1000" height="120"/>
 </a>
+
 
   - [성연수](https://github.com/yeansoo0103)
   <a href="https://github.com/devxb/yeansoo0103">
