@@ -40,20 +40,22 @@
   <img src="https://render.gitanimals.org/lines/Joinjun001?pet-id=1" width="1000" height="120"/>
   </a>
 
-- [이경환](https://github.com/lgh0005)
-    <img src="https://render.gitanimals.org/lines/{lgh0005}?pet-id=1" width="1000" height="120"/>
-    </a>
-
   - [성연수](https://github.com/yeansoo0103)
   <a href="https://github.com/devxb/yeansoo0103">
   <img src="https://render.gitanimals.org/lines/yeansoo0103?pet-id=1" width="1000" height="120"/>
+
   </a>
   
-  - [감민서](https://github.com/oesnim777)
+    - [성연수](https://github.com/oesnim777)
   <a href="https://github.com/devxb/oesnim777">
   <img src="https://render.gitanimals.org/lines/yeansoo0103?pet-id=1" width="1000" height="120"/>
 
 - [박범혁](https://github.com/completebluebird)
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/completebluebird?pet-id=1" width="100" height="12"/>
+  </a>
+
+- [김호태](https://github.com/rolltaee)
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/rolltaee?pet-id=1" width="1000" height="300"/>
   </a>
